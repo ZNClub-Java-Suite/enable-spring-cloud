@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/enable-spring-boot-admin/enable-spring-boot-admin.iml" filepath="$PROJECT_DIR$/enable-spring-boot-admin/enable-spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/enable-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/enable-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enable-spring-cloud-eureka/enable-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/enable-spring-cloud-eureka/enable-spring-cloud-eureka.iml" />
+    </modules>
+  </component>
+</project>

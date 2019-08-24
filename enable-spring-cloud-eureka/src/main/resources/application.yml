@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: eureka
+
+server:
+  port: 8761
+
+logging:
+  level:
+    root: DEBUG
+    com:
+      netflix:
+        discovery: 'OFF'
+        eureka: 'OFF'
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+
