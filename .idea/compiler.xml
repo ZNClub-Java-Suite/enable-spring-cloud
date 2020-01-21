@@ -7,17 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="enable-spring-cloud-eureka" />
+        <module name="enable-spring-cloud-aws" />
         <module name="enable-spring-boot-admin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="enable-spring-boot-admin" target="11" />
+      <module name="enable-spring-cloud-aws" target="11" />
       <module name="enable-spring-cloud-eureka" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="enable-spring-boot-admin" options="-parameters" />
+      <module name="enable-spring-cloud-aws" options="-parameters" />
       <module name="enable-spring-cloud-eureka" options="-parameters" />
     </option>
   </component>

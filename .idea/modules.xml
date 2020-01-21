@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/enable-spring-boot-admin/enable-spring-boot-admin.iml" filepath="$PROJECT_DIR$/enable-spring-boot-admin/enable-spring-boot-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/enable-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/enable-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enable-spring-cloud-aws/enable-spring-cloud-aws.iml" filepath="$PROJECT_DIR$/enable-spring-cloud-aws/enable-spring-cloud-aws.iml" />
       <module fileurl="file://$PROJECT_DIR$/enable-spring-cloud-eureka/enable-spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/enable-spring-cloud-eureka/enable-spring-cloud-eureka.iml" />
     </modules>
   </component>

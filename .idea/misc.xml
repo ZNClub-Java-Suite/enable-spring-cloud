@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/enable-spring-boot-admin/pom.xml" />
         <option value="$PROJECT_DIR$/enable-spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/enable-spring-cloud-aws/pom.xml" />
       </list>
     </option>
   </component>
